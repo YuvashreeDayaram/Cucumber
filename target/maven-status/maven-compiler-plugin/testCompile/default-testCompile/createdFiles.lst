@@ -1,0 +1,7 @@
+com\ajio\KidsClothing.class
+com\ajio\locators\MensClothingLocators.class
+com\ajio\locators\KidsClothingLocators.class
+com\ajio\runner\TestRunner.class
+com\ajio\basefuntions\Reusable.class
+com\ajio\Hooks.class
+com\ajio\MensClothing.class
